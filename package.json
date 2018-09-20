@@ -1,0 +1,25 @@
+{
+  "name": "auto-test-zos-linux",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ajv": "^6.5.3",
+    "axios": "^0.18.0",
+    "file-saver": "^1.3.8",
+    "ftp": "^0.3.10",
+    "net": "^1.0.2",
+    "react": "^16.5.0",
+    "react-dom": "^16.4.2",
+    "react-files": "^2.4.7",
+    "react-scripts": "1.1.5",
+    "react-select-files": "^0.1.0",
+    "react-table": "^6.8.6",
+    "scp2": "^0.5.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

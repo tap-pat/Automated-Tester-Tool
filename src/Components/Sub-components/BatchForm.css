@@ -1,0 +1,15 @@
+.files-dropzone{
+    width: 385px;
+    border-style: groove;
+}
+
+.Files p{
+    padding-left: 10px;
+    display: block;
+}
+
+.batch-submit {
+	position: absolute;
+	top: 100px;
+	left: 400px;
+}

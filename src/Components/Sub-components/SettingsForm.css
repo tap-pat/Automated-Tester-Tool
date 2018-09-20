@@ -1,0 +1,14 @@
+.setting-form a{
+    height: 20px;
+    padding: 12px;
+    display: block;
+}
+
+.setting-form label{
+    display: block;
+}
+
+.setting-form input{
+    display: block;
+}
+
